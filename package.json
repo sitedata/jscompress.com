@@ -64,7 +64,7 @@
     "lodash.round": "^4.0.4",
     "seemple": "^2.4.17",
     "file-binders": "0.3.13",
-    "uglify-js": "^3.7.6"
+    "uglify-js": "^3.9.4"
   },
   "peerDependencies": {
     "pm2": "^4.2.3"
